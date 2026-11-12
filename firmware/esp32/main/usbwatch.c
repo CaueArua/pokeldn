@@ -6,7 +6,7 @@
 
 #include "sdkconfig.h"
 
-#if CONFIG_IDF_TARGET_ESP32C6 || CONFIG_IDF_TARGET_ESP32S3
+#if 0
 #include <stdbool.h>
 #include <string.h>
 
